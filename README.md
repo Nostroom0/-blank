@@ -5,3 +5,5 @@
 ou seulement un <!-- commentaire --> .
 
 Mais :blank contrairement à :empty est capable de sélectionner aussi les éléments qui contiennent des espaces blanc. 
+
+https://nostroom0.github.io/-blank/
