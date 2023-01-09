@@ -1,0 +1,23 @@
+p{
+    min-height: 30px;
+    width: 250px;
+}
+.blanks p{
+    background-color: aqua;
+}
+.blanks p:blank{
+    display: flex;
+}
+
+.empty p{
+    background-color: red;
+}
+.empty p:empty{
+    display: none;
+}
+
+.normal p{
+    background-color: green;
+    display: none;
+}
+
